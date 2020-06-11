@@ -1,0 +1,131 @@
+.login {
+    background-image: url(https://blogeducacaofisica.com.br/wp-content/uploads/2018/01/praticantes-de-corrida-capa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    }
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.inicial {
+    background-image: url(https://media.giphy.com/media/YPza3m9TKTswQh04nc/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family: monospace;
+    position: absolute;
+    padding: 20px;
+    margin: 200px auto;
+}
+
+.logo{
+    color: rgba(7, 6, 6, 0.842);
+    font-size: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-stretch: ultra-expanded;
+    font-weight: 900;
+    text-shadow: 0px 4px 4px rgba(221, 216, 216, 0.25);
+}
+
+.foto{
+    text-align: center;
+    color: rgba(97, 89, 89, 0.842);
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+.ComoEsta {
+    background-image: url(https://kamelturismo.com.br/wp-content/uploads/Dicas-para-correr-meia-maratona-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    font-weight: 900;
+}
+
+.PGTO {
+    background-image: url(https://suacorrida.com.br/wp-content/uploads/sites/2/2016/11/%C3%89-melhor-fazer-muscula%C3%A7%C3%A3o-antes-ou-depois-da-corrida-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    color: rgba(15, 15, 15, 0.842);
+    font-weight: 900;
+}
+
+  .alimentos {
+    background-image: url(https://i0.wp.com/img.fciencias.com/uploads/2017/05/wallpaper_surf_fciencias_00004.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    font-weight: 900;
+}
+
+.peso {
+    background-image: url(https://sportlife.com.br/wp-content/uploads/2017/10/atividades-fisicas-para-diabeticos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    font-weight: 900;
+}
+
+.pressao{
+    background-image: url(https://intensivemed.com.br/wp-content/uploads/2018/07/medir-pressao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    font-weight: 900;
+}
+
+.atividade{
+    background-image: url(https://www.bikemagazine.com.br/wp-content/uploads/2019/12/capa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    font-weight: 900;
+}
+
+.metas{
+    background-image: url(https://www.evidenciasaude.com.br/wp-content/uploads/2014/11/tb-Caminhada-Emagrecimento.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    font-weight: 900;
+}
+
+.dashboard{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family:Monospace;
+    font-weight: 900;    
+    background-color: rgba(150, 137, 137, 0.842);
+}
